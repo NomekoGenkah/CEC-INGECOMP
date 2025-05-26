@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.div-main{
+  background-color: rgb(217, 220, 228);
+  padding: 0;
+  min-height: 100vh;
+}
